@@ -64,6 +64,6 @@ Brief explanation of the business problem and analytics goal.
 ## 📫 Contact
 **Nitin Kumar Prajapati**  
 - LinkedIn: [(your link)](https://www.linkedin.com/in/nitin-analytics/)
-- GitHub: (your profile)
-
+- GitHub: [(your profile)
+](https://github.com/cl291-ctrlb/Constant_analyst)
 I am actively seeking **Data Analyst opportunities** where teamwork and analytics go hand in hand.
